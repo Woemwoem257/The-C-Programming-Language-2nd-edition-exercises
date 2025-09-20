@@ -1,10 +1,10 @@
 /**
- *  @file TCP_Chapter2_Exercise7.c
- *  @brief TCP_Exercise 2-7
+ *  @file TCP_Chapter2_Exercise8.c
+ *  @brief TCP_Exercise 2-8
  *  @details Write a function rightrot(x,n) that returns the value of the integer x rotated
  * to the right by n positions. 
  *  @version 1.0
- *  @date 17/9/2025
+ *  @date 19/9/2025
  *  @author LuuDucNam
  */
 

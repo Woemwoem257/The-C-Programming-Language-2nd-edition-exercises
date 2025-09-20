@@ -4,7 +4,7 @@
  *  @details Write a function invert(x,p,n) that returns x with the n bits that begin at
  * position p inverted (i.e., 1 changed into 0 and vice versa), leaving the others unchanged. 
  *  @version 1.0
- *  @date 17/9/2025
+ *  @date 19/9/2025
  *  @author LuuDucNam
  */
 
