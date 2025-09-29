@@ -9,3 +9,5 @@
 20/9/2025: Completed 2 exercises: 2-9.
 
 21/9/2025: Completed 2 exercises: 2-10.
+
+29/9/2025: Completed 1 exercises: 3-1. 
