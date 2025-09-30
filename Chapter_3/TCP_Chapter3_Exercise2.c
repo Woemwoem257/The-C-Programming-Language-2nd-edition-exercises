@@ -38,12 +38,11 @@ char* escape(char s[], char t[]);
                 s[j++] = 't';
                 break;
             default:
-                s[j++] = c;
+                s[j++] = c;   
                 break;
         }
-         s[j] = '\0';
  }  
-
+ s[j] = '\0';
  return s;
  }
 
