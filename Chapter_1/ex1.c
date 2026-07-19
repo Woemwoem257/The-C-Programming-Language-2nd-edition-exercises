@@ -3,7 +3,8 @@ out parts of the program, to see what error messages you get.*/
 
 #include <stdio.h>
 
-int main()
-{
-    printf("hello, world\n");
+int main(){
+    printf("Hello World!"); 
 }
+
+/*Just try again with each example*/
