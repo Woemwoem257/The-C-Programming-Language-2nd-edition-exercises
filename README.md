@@ -13,3 +13,5 @@
 29/9/2025: Completed 1 exercises: 3-1. 
 
 30/9/2025: Completed 1 exercises: 3-2. 
+
+20/7/2026: After 1 year of dropping, now i'm back for my review  
