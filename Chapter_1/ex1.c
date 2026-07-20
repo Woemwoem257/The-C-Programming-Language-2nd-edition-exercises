@@ -4,7 +4,7 @@ out parts of the program, to see what error messages you get.*/
 #include <stdio.h>
 
 int main(){
-    printf("Hello World!"); 
+    printf("Hello World!\n"); 
 }
 
 /*Just try again with each example*/
